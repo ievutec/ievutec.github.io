@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ieva Čepaitė"
-  avatar           : "profile_pic.jpeg"
+  avatar           : "images/profile_pic.jpeg"
   bio              : "Physics researched at Starthclyde Physics, quantum gal."
   location         : "Glasgow, Scotland"
   employer         :
