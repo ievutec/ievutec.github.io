@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-US"
-colorscheme              : "dark"
 title                    : "Ieva Čepaitė"
 title_separator          : "-"
 name                     : &name "Ieva Čepaitė"
@@ -115,7 +114,6 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wordpress        : "https://toomuchtimecankillyou.com/"
   wikipedia        :
 
 
