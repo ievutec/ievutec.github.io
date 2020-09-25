@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+colorscheme              : "dark"
 title                    : "Ieva Čepaitė"
 title_separator          : "-"
 name                     : &name "Ieva Čepaitė"
