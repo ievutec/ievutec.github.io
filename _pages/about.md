@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'll fill this in as soon as possible.
+I am a Quantum Computing enthusiast and a PhD candidate at the [Quantum Optics and Quantum Many-Body Systems](https://qoqms.phys.strath.ac.uk/) group at Strathclyde.
