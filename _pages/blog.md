@@ -11,8 +11,6 @@ The coming of a global pandemic caused me - as it did many - to finally put some
 
 You can visit the blog [HERE](https://toomuchtimecankillyou.com/).
 
-This is a list of posts in case a particular title jumps out at you:
-
 ## List of posts
 
 * [What is a Quantum Algorithm? (Part 2: “It” from “Qubit”)](https://toomuchtimecankillyou.com/2020/12/25/what-is-a-quantum-algorithm-part-2-it-from-qubit/)
