@@ -11,7 +11,7 @@ Here's some relevant errata that don't yet have a home anywhere else:
 
 ## Science Writing
 
-### I've done quite a bit of science communication and outreach in my day, although sadly not as many of these endeavours have a traceable online presence (mostly talks at events and such). However, I did edit and contribute to the Edinburgh University Science magazine (EUSci):
+I've done quite a bit of science communication and outreach in my day, although sadly not as many of these endeavours have a traceable online presence (mostly talks at events and such). However, I did edit and contribute to the Edinburgh University Science magazine (EUSci):
 
 [Link to EUSci Magazine](https://issuu.com/eusci)
 
@@ -19,7 +19,7 @@ Here's some relevant errata that don't yet have a home anywhere else:
 
 [Link to short story winner](http://ievutec.github.io/files/firstwant.pdf)
 
-### I also recently peer reviewed an article for the [Cambridge Journal of Science & Policy](http://www.cuspe.org/category/publications-media/cambridge-journal-of-science-policy-allpublications/):
+I also recently peer reviewed an article for the [Cambridge Journal of Science & Policy](http://www.cuspe.org/category/publications-media/cambridge-journal-of-science-policy-allpublications/):
 
 [Quantum Key Distribution: Advantages, Challenges and Policy, by Victor Lovic](http://www.cuspe.org/wp-content/uploads/2020/10/12_v1_2.pdf)
 
