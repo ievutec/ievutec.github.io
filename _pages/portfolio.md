@@ -15,7 +15,7 @@ I've done quite a bit of science communication and outreach in my day, although 
 
 [Link to EUSci Magazine](https://issuu.com/eusci)
 
-[Link to article on Quantum Consciousness in EUSci](http://ievutec.github.io/files/eusci_article)
+[Link to article on Quantum Consciousness in EUSci](http://ievutec.github.io/files/eusci_article.pdf)
 
 [Link to short story winner](http://ievutec.github.io/files/firstwant.pdf)
 
