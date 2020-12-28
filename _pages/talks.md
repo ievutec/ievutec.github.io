@@ -20,7 +20,7 @@ author_profile: true
 As few of my talks so far have actually been recorded (and so far all on one subject), here's some fun slides from some other presentations I've given:
 
 * [Solving Partial Differential Equations (PDEs) with Quantum Computers](http://ievutec.github.io/files/AWE_presentation.pdf) (_12 March, 2020_)
-* [Introduction to Quantum Machine Learning](http://ievutec.github.io/files/IGSQT_pres) (_19 June, 2020_, presented for [IGSQT](https://igsqt.ac.uk/))
+* [Introduction to Quantum Machine Learning](http://ievutec.github.io/files/IGSQT_pres.pdf) (_19 June, 2020_, presented for [IGSQT](https://igsqt.ac.uk/))
 * [Variational Counterdiabatic Driving](http://ievutec.github.io/files/CD_Driving.pdf) (_12 November, 2020_, presented in a joint seminar with the University of Waterloo)
 
 
