@@ -14,7 +14,7 @@ You can visit the blog [HERE](https://toomuchtimecankillyou.com/).
 ## List of posts
 
 * [What is a Quantum Algorithm? (Part 2: “It” from “Qubit”)](https://toomuchtimecankillyou.com/2020/12/25/what-is-a-quantum-algorithm-part-2-it-from-qubit/)
-* [What is a Quantum Algorithm? (Part 1: The Rant about Information)](oomuchtimecankillyou.com/2020/05/20/what-is-a-quantum-algorithm-part-1-the-rant-about-information/)
+* [What is a Quantum Algorithm? (Part 1: The Rant about Information)](https://toomuchtimecankillyou.com/2020/05/20/what-is-a-quantum-algorithm-part-1-the-rant-about-information/)
 * [Adapting: A COVID-Inspired Autobiography](https://toomuchtimecankillyou.com/2020/03/24/adapting-a-covid-inspired-autobiography/)
 * [A Day at the AWE](https://toomuchtimecankillyou.com/2020/03/15/a-day-at-the-awe/)
 * [Beginnings](https://toomuchtimecankillyou.com/2020/03/14/beginnings/)
