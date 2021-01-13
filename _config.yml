@@ -70,16 +70,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
-# Analytics
-analytics:
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
-  google:
-<<<<<<< HEAD
-<<<<<<< HEAD
-    tracking_id          :
-
-
 # Site Author
 author:
   name             : "Ieva Čepaitė"
