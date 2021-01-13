@@ -76,7 +76,11 @@ analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
 <<<<<<< HEAD
-    tracking_id          : # "G-WZXYQVKQBV"
+<<<<<<< HEAD
+    tracking_id          :
+=======
+    tracking_id          :
+>>>>>>> parent of 444cd8c... Update _config.yml
 =======
     tracking_id          :
 >>>>>>> parent of 444cd8c... Update _config.yml
