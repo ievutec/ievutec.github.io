@@ -11,23 +11,9 @@ author_profile: true
 
 {% endif %}
 
----
-title: "QTML 2020: A Continuous Variable Born Machine"
-collection: talks
-date: 2020-11-10
-location: "Online (recorded Zoom meeting)"
----
-
- [LINK](https://www.youtube.com/watch?v=6v1IiXRToPU&list=PLnfLBUr5sAbDC_3B1GG3u7yjzUIBKf3pa&index=17) A presentation at QTML 2020 about the [CVBM](https://arxiv.org/abs/2011.00904)  (starts at 1:01:14).  
-
----
-title: "PQI 2020: A Continuous Variable Born Machine"
-collection: talks
-date: 2020-04-17
-location: "Online (recorded Zoom meeting)"
----
-
-[LINK](https://www.youtube.com/watch?v=ImQeEs0BcQs&t=5304s) A talk for the annual PQI2020 poster session for the [Pittsburgh Quantum Institute](https://www.pqi.org/) presenting my poster about the [CVBM](https://arxiv.org/abs/2011.00904)  (starts at 33:20).
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
 
 ## Slides
 
