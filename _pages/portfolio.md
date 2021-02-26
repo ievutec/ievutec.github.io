@@ -11,6 +11,14 @@ Here's some relevant errata that don't yet have a home anywhere else:
 
 ## Science Writing
 
+---
+
+### UPDATE
+
+As of February 2021 I am now also a student contributor to [Physics World](https://physicsworld.com/) on quantum developments in the scientific community :)
+
+---
+
 I've done quite a bit of science communication and outreach in my day, although sadly not as many of these endeavours have a traceable online presence (mostly talks at events and such). However, I did edit and contribute to the Edinburgh University Science magazine (EUSci):
 
 [Link to EUSci Magazine](https://issuu.com/eusci)
@@ -24,6 +32,10 @@ I also recently peer reviewed an article for the [Cambridge Journal of Science &
 [Quantum Key Distribution: Advantages, Challenges and Policy, by Victor Lovic](http://www.cuspe.org/wp-content/uploads/2020/10/12_v1_2.pdf)
 
 
+
+## Clubhouse
+
+I am an admin on several science and tech-driven clubs on the ephemeral, recent social app [Clubhouse](https://www.bbc.co.uk/news/technology-56180581) like [Science on the rocks](https://twitter.com/SciOTRocks). I organise panels and moderate rooms which host discussions on every topic from AI to Category Theory to Physics to Neuroscience.
 
 
 ## Interviews
